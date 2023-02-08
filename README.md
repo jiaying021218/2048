@@ -5,4 +5,5 @@
 - Imported a random spawning mechanism for spawning tiles on the board
 - Programmed for run-time efficiency 
 
+![alt text](https://github.com/jiaying021218/2048/blob/main/2048.png)
 
